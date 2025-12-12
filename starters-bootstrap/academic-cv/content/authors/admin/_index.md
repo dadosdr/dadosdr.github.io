@@ -1,9 +1,9 @@
 ---
 # Display name
-title: daffasdf
+title: asdsds
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: sdff
 
 # Full name (for SEO)
 first_name: Shiung Wu
